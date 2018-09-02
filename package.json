@@ -1,0 +1,23 @@
+{
+  "name": "reload",
+  "version": "1.0.0",
+  "description": "Reload discord bot aiming for best user experience.",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Test\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForTheCode/ReLoad.git"
+  },
+  "author": "Matsuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForTheCode/ReLoad/issues"
+  },
+  "homepage": "https://github.com/ForTheCode/ReLoad#readme"
+}
